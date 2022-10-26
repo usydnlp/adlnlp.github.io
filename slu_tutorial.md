@@ -25,7 +25,7 @@ In this tutorial we will discuss how the joint task is set up and introduce Spok
 | 16:15 - 16:30 | QnA |
 
 
-## Presenters
+## Organisers/Presenters
 - Dr. Henry Weld, The University of Sydney
 - Ms. Siqu Long (Sharon), The University of Sydney
 - Dr. Josiah Poon, The University of Sydney
