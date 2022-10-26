@@ -21,7 +21,7 @@ In this tutorial we will discuss how the joint task is set up and introduce Spok
 | 14:45 - 15:00 | Hands-on Exercise (Joint BERT) |
 | 15:00 - 15:15 | SLU Evaluation |
 | 15:15 - 16:00 | Hands-on Exercise (Datasets, Metrics, Experiments) |
-| 16:00 - 16:15 | SLU Evaluation |
+| 16:00 - 16:15 | Future Direction |
 | 16:15 - 16:30 | QnA |
 
 
