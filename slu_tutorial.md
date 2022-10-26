@@ -1,4 +1,4 @@
-# Spoken Language Understanding: Recent Advances and Future
+# Spoken Language Understanding: Recent Advances and Future Direction
 #### AJCAI 2022 Tutorial
 Organised by The University Of Sydney, The University Of Western Australia
 
