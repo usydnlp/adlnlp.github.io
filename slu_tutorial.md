@@ -15,8 +15,15 @@ In this tutorial we will discuss how the joint task is set up and introduce Spok
 
 | Time | Topic |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| 13:30 - 14:00 | Introduction to the NLP and SLU |
+| 14:00 - 14:30 | Joint SLU Approaches |
+| 14:30 - 14:45 | QnA and Break |
+| 14:45 - 15:00 | Hands-on Exercise (Joint BERT) |
+| 15:00 - 15:15 | SLU Evaluation |
+| 15:15 - 16:00 | Hands-on Exercise (Datasets, Metrics, Experiments) |
+| 16:00 - 16:15 | SLU Evaluation |
+| 16:15 - 16:30 | QnA |
+
 
 ## Presenters
 - Dr. Henry Weld, The University of Sydney
