@@ -26,10 +26,12 @@ In this tutorial we will discuss how the joint task is set up and introduce Spok
 
 
 ## Organisers/Presenters
-- Dr. Henry Weld, The University of Sydney
+- [Dr. Henry Weld](https://www.linkedin.com/in/henry-weld-3bb53415/), The University of Sydney
 - Ms. Siqu Long (Sharon), The University of Sydney
-- Dr. Josiah Poon, The University of Sydney
-- Dr. Caren Han, University of Western Australia and The University of Sydney
+- [Dr. Josiah Poon](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/josiah-poon.html), The University of Sydney
+- [Dr. Caren Han](https://drcarenhan.github.io/), University of Western Australia and The University of Sydney
 
 ## Reference
-TBA
+- Weld, H., Huang, X., Long, S., Poon, J., Han, S.C. (2022). A survey of joint intent detection and slot-filling models in natural language understanding. ACM Computing Surveys 0360-0300. https://dl.acm.org/doi/abs/10.1145/3547138
+- Weld, H., Huang, G., Lee, J., Zhang, T., Wang, K., Guo, X., Long, S., Poon, J., Han, S.C. (2021, August). CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection. ACL-IJCNLP, Bangkok, Thailand (pp. 2406–2416). Association for Computational Linguistics.
+- Han, S.C., Long, S., Li, H., Weld, H., Poon, J. (2021, August). Bi-Directional Joint Neural Networks for Intent Classification and Slot Filling. Proc. Interspeech. Interspeech 2021, Brno, Czechia (pp. 4743-4747). ISCA. doi: 10.21437/Interspeech.2021-2044
