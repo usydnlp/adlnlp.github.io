@@ -29,7 +29,7 @@ In this tutorial we will discuss how the joint task is set up and introduce Spok
 
 ## Organisers/Presenters
 - [Dr. Henry Weld](https://www.linkedin.com/in/henry-weld-3bb53415/), The University of Sydney
-- Ms. Siqu Long (Sharon), The University of Sydney
+- [Ms. Siqu Long (Sharon)](https://docs.google.com/document/d/1PcFIoA73asZdEAvLlqLMGO7-4PXPrsz0/edit?usp=sharing&ouid=103420707809014823273&rtpof=true&sd=true), The University of Sydney
 - [Dr. Josiah Poon](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/josiah-poon.html), The University of Sydney
 - [Dr. Caren Han](https://drcarenhan.github.io/), University of Western Australia and The University of Sydney
 
