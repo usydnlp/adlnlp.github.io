@@ -4,7 +4,9 @@ Organised by The University Of Sydney, The University Of Western Australia
 
 
 ## Time and Location
-1.30pm – 4.30pm (UTC/GMT+8, AWST) on Monday, 05 December 2022 at Hyatt Regency Perth, Perth, WA, Australia.
+1.30pm – 4.30pm (UTC/GMT+8, AWST) on Monday, 05 December 2022
+- **Physical**: Hyatt Regency Perth, Perth, WA, Australia.
+- **Virtual**: Zoom https://uni-sydney.zoom.us/j/83660702451
 
 ## Abstract
 When a human speaks to a machine how does the latter elicit meaning from the communication? This is an important AI task as it enables the machine to construct a sensible answer or perform a useful action for the human. Meaning is represented at the sentence level, identification of which is known as intent detection, and at the word level, a labelling task called slot filling. This dual level joint task requires innovative thinking about natural language and deep learning network design and as a result many approaches have been tried. 
